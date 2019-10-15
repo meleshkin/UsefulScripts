@@ -1,5 +1,5 @@
 #!/bin/bash
-wget https://builds.shipilev.net/openjdk-jdk8/openjdk-jdk8-latest-linux-x86_64$
+wget https://builds.shipilev.net/openjdk-jdk8/openjdk-jdk8-latest-linux-x86_64-release.tar.xz
 tar xf openjdk-jdk8-latest-linux-x86_64-release.tar.xz
 mkdir /opt/openjdk8
 mv j2sdk-image/* /opt/openjdk8
